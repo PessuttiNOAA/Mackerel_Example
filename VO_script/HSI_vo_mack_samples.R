@@ -1,7 +1,7 @@
 
-
+# I have made Some Changes !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 # This is an example Code to show the use of Github and SourceTree
-# Code Version 1.0
+# Code Version 2.0
 # Code to Extract estimated habitat suitability from BTS locations 
 require(raster)
 require(ncdf4)
